@@ -1,0 +1,57 @@
+.logo {
+  display: inline-block;
+}
+
+.btns-right {
+  float: right;
+}
+
+.header-menu {
+  list-style:none;
+  margin:0;
+  padding:0;
+  text-align: center;
+}
+
+.logo img{
+  width: 80px;
+}
+
+.list-menu {
+  display: inline-block;
+}
+
+.search-btn {
+  width: 15px;
+  margin-right: 20px;
+}
+
+.lang-btn{
+  font-family: 'Song Myung', serif;
+  font-size: 15px;
+}
+
+.header-menu li {
+  padding: 0;
+  list-style:none;
+  overflow:auto;
+  display: inline;
+  font-family: 'Song Myung', serif;
+  color: #000;
+  font-size: 20px;
+  margin-left: 20px;
+
+}
+
+.header-menu li a {
+  text-decoration: none;
+  display: inline-block;
+}
+
+a:active {
+  color: #000;
+}
+
+a:visited {
+  color: #000;
+}
