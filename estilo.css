@@ -4,6 +4,7 @@
 
 .btns-right {
   float: right;
+  margin-top: 5px;
 }
 
 .header-menu {
@@ -29,6 +30,7 @@
 .lang-btn{
   font-family: 'Song Myung', serif;
   font-size: 15px;
+  margin-right: 20px;
 }
 
 .header-menu li {
